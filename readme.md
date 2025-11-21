@@ -13,6 +13,10 @@ This is a simple project that demonstrates the use of HTML, CSS, and JavaScript 
 - Interactive drawing capabilities
 - Customizable settings
 
+## Preview
+
+You can see a live demo of the project [here](https://hamid1882.github.io/canvas-project/).
+
 ## Getting Started
 
 ### Prerequisites
@@ -42,9 +46,3 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-### Instructions to Add to README.md
-
-1. Open your `readme.md` file.
-2. Copy and paste the above template into it.
-3. Feel free to edit any sections to reflect your project's unique qualities or requirements.
